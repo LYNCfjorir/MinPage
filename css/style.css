@@ -5,10 +5,10 @@
   --bg: #1F2229;
   --fg: #eaeaea;
   --fgs: #292E39;
-  --blue: #5e81ac;
-  --green: #a3be8c;
-  --yellow: #ebcb8b;
-  --red: #bf616a;
+  --blue: #5EADE0;
+  --green: #3BBF7D;
+  --yellow: #E0E055;
+  --red: #E3593B;
 }
 
 @media only screen and (max-width: 1200px) {
